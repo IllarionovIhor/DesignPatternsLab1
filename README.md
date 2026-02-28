@@ -1,1 +1,1 @@
-# DesignPatternsLab1
+# DesignPatternsLab2
